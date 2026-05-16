@@ -1,2 +1,4 @@
-print("Hello World!")
-print("Fairooz Tabassum")
+def git2():
+    print("Fairooz Tabassum")
+
+git2()  
