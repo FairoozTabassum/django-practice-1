@@ -1,1 +1,1 @@
-# gitpractice2
+# django gitpractice2
