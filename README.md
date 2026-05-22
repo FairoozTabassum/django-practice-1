@@ -1,3 +1,3 @@
-# django gitpractice2    practice change
-This line was added from GitHub website.
+
+## PR practice change for GitHub learning
 Another update
