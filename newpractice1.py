@@ -9,3 +9,4 @@ def git2():
 git3()  stash practice
 # amend practice
 print('Change from main branch')
+print('Change from branch A')
