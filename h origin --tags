@@ -1,0 +1,23 @@
+[33mtag v1.1[m
+Tagger: Fairooz Tabassum <ttabassuum@gmail.com>
+Date:   Sat May 23 00:45:52 2026 +0600
+
+First annotated tag
+
+[33mcommit 67c8a8b8a0e1224ab5a58bfc589b979390fdba67[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;33mtag: [m[1;33mv1.1[m[33m, [m[1;33mtag: [m[1;33mv1.0[m[33m)[m
+Author: Fairooz Tabassum <ttabassuum@gmail.com>
+Date:   Sat May 23 00:45:28 2026 +0600
+
+    Applied stashed changes
+
+[1mdiff --git a/newpractice1.py b/newpractice1.py[m
+[1mindex 3684301..86ba470 100644[m
+[1m--- a/newpractice1.py[m
+[1m+++ b/newpractice1.py[m
+[36m@@ -1,4 +1,4 @@[m
+ def git3():[m
+     print("Main Branch")[m
+ [m
+[31m-git3()  [m
+\ No newline at end of file[m
+[32m+[m[32mgit3()  stash practice[m
